@@ -1,0 +1,14 @@
+* {
+    font-family: "Calibri";
+    background-color: aquamarine;
+    font-size:large;
+}
+
+.container {
+    background-color: antiquewhite;
+    margin: auto;
+    width: 75%;
+    padding: 15px;
+    text-align: center;
+    border: 3px solid green;
+}
